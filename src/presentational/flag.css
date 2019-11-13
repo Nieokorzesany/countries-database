@@ -1,0 +1,23 @@
+body {
+  background: lightgray;
+  text-align: center;
+}
+
+.single-country img {
+  max-width: 400px;
+  max-height: 300px;
+  margin: 20px;
+}
+
+.countries-list {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+}
